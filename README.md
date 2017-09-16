@@ -1,2 +1,3 @@
 # WeatherApp 1.0
-This Weather App 1.0, pulls data from NOAA weather service.
+Application which pulls and manipulates data from NOAA weather service.
+Includes a basic java swing interface.
